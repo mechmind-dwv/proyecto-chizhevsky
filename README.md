@@ -184,7 +184,7 @@ Chizhevsky propuso mecanismos biofísicos:
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/tu-usuario/proyecto-chizhevsky.git
+git clone https://github.com/mechmind-dwv/proyecto-chizhevsky.git
 cd proyecto-chizhevsky
 ```
 
