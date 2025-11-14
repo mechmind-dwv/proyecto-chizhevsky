@@ -24,4 +24,3 @@
 - **Mejoren la visualización**: Más gráficos, más interactividad
 - **Añadan datos en tiempo real**: APIs de NOAA, WHO, etc.
 - **Optimicen código**: Mejor rendimiento, accesibilidad
-
