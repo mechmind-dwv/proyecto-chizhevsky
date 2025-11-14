@@ -319,6 +319,6 @@ El conocimiento debe ser libre. Chizhevsky pasó 8 años en prisión por sus ide
 
 ---
 
-*Última actualización: Noviembre 2024*  
+*Última actualización: Noviembre 2025*  
 *Versión: 1.0.0*  
 *Mantenido por la comunidad científica global*
