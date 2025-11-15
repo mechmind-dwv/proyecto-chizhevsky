@@ -24,4 +24,37 @@
 - Rehabilitación póstuma y reconocimiento tardío
 
 ## Obras Completas
-[Lista detallada de todas sus publicaciones, incluyendo las perdidas]
+## 📚 Recursos y Bibliografía
+
+### Obras de Chizhevsky (Disponibles Online)
+
+1. **"Physical Factors of the Historical Process"** (1924)  
+   → [Leer en Cycles Journal](https://cyclesresearchinstitute.org/pdf/cycles-history/chizhevsky1.pdf)
+
+2. **"Épidémies et Perturbations Électromagnétiques du Milieu Extérieur"** (1938, París)  
+   → [Leer PDF completo](http://gorbanev.com/literature/Book1938/BOOKcomplete.pdf)
+
+3. **"Terrestrial Echo of Solar Storms"** (1973, publicado póstumamente)  
+   → Documenta efectos cardiovasculares
+
+4. **"The Earth in the Embrace of the Sun"** (recopilación de trabajos)  
+   → Filosofía cósmica de la vida
+
+### Estudios Científicos Modernos que Validan a Chizhevsky
+
+- **Halberg et al. (2011)**: "Physiological-Epidemiological-Physical Environmental Monitoring"  
+  → Correlaciones cronobiológicas confirmadas  
+  → [PDF disponible](http://www.biophys.ru/archive/iki-2012.pdf)
+
+- **NASA/NOAA Space Weather Prediction Center**:  
+  → Datos de tormentas geomagnéticas en tiempo real  
+  → https://www.swpc.noaa.gov/
+
+- **WHO/FAO/WOAH**: Cronología oficial brotes H5N1  
+  → https://www.who.int/emergencies/disease-outbreak-news
+
+### Documentales y Artículos
+
+- **"Chizhevsky and Cosmic Consciousness"** — Revista Cycles (1971)
+- **Museo Estatal Konstantin Tsiolkovsky** (Kaluga, Rusia) — Archivo Chizhevsky
+- **"The Biological Effects of Solar Activity"** — Reviews in Environmental Health (múltiples estudios)
