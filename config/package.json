@@ -1,0 +1,34 @@
+{
+  "name": "proyecto-heliobiologia-chizhevsky",
+  "version": "1.0.0",
+  "description": "Análisis de correlaciones entre actividad solar y eventos biológicos terrestres - Honrando el legado de Alexander Chizhevsky",
+  "main": "src/js/app.js",
+  "scripts": {
+    "start": "node src/js/app.js",
+    "dev": "nodemon src/js/app.js",
+    "build": "webpack --mode production",
+    "test": "jest",
+    "data:update": "node tools/data_processor.js"
+  },
+  "keywords": [
+    "heliobiology",
+    "chizhevsky",
+    "solar-activity",
+    "epidemiology",
+    "cosmic-correlations",
+    "science-history"
+  ],
+  "author": "Comunidad Científica Global",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^7.8.5",
+    "chart.js": "^4.4.0",
+    "axios": "^1.6.0",
+    "express": "^4.18.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "webpack": "^5.89.0",
+    "nodemon": "^3.0.0"
+  }
+}
