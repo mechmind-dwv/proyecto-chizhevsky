@@ -86,3 +86,54 @@ Realiza una búsqueda en las issues para ver si la mejora ya ha sido sugerida. S
    ```bash
    git clone https://github.com/tu-usuario/proyecto-heliobiologia-chizhevsky.git
    cd proyecto-heliobiologia-chizhevsky
+   ```
+3. Crea una rama para tu feature:
+   ```bash
+   git checkout -b feature/nueva-caracteristica
+   ```
+
+### Estructura del Proyecto
+
+Familiarízate con la [estructura del proyecto](../../README.md#estructura-del-proyecto) en el README principal.
+
+### Proceso de Desarrollo
+
+1. **Haz tus cambios** en tu rama
+2. **Ejecuta tests** si existen
+3. **Asegúrate de que tu código sigue las guías de estilo**
+4. **Commit de tus cambios** con mensajes descriptivos
+5. **Push a tu fork**
+6. **Abre un Pull Request**
+
+## Pull Requests
+
+Sigue estos pasos para que tus contribuciones sean aceptadas:
+
+1. Sigue las [instrucciones](#tu-primera-contribución)
+2. Sigue el [template de Pull Request](PULL_REQUEST_TEMPLATE.md)
+3. No olvides [enlazar tu PR a una Issue](https://help.github.com/articles/linking-a-pull-request-to-an-issue/) si existe
+4. Permite que los mantenedores hagan cambios en tu rama
+
+## Estilos y Guías
+
+### Guías de Estilo para Código
+
+- **JavaScript**: Usar ESLint con configuración estándar
+- **Python**: Seguir PEP 8
+- **HTML/CSS**: Usar formato consistente
+
+### Guías de Commit
+
+- Usa el formato: `tipo(ámbito): descripción breve`
+- Tipos: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`
+- Ejemplo: `feat(visualizacion): añade gráfico de correlación solar`
+
+### Guías de Documentación
+
+- Escribe en español claro o inglés
+- Incluye ejemplos cuando sea posible
+- Actualiza la documentación cuando cambies el código
+
+## Atribución
+
+Este CONTRIBUTING.md está adaptado del [Contributing Template](https://github.com/nayafia/contributing-template) disponible en GitHub.
