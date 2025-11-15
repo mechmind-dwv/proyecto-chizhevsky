@@ -1,0 +1,55 @@
+# 🌞 Proyecto Heliobiología - Dependencias Python
+# Para análisis de datos y procesamiento científico
+
+# Análisis de datos
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Visualización
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Análisis estadístico
+scikit-learn>=1.2.0
+statsmodels>=0.14.0
+
+# Datos astronómicos/solares
+sunpy>=5.0.0
+astropy>=5.2.0
+
+# Procesamiento de series temporales
+prophet>=1.1.0
+
+# Web scraping para datos en tiempo real
+requests>=2.28.0
+beautifulsoup4>=4.12.0
+selenium>=4.8.0
+
+# APIs para datos solares y de salud
+aiohttp>=3.8.0
+asyncio>=3.11.0
+
+# Procesamiento JSON/CSV
+json5>=0.9.0
+pyyaml>=6.0
+
+# Utilidades científicas
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.22.0
+
+# Entorno y desarrollo
+python-dotenv>=1.0.0
+pytest>=7.3.0
+black>=23.3.0
+flake8>=6.0.0
+
+# Procesamiento paralelo
+dask>=2023.3.0
+joblib>=1.2.0
+
+# Base de datos ligera
+sqlite3
+dataset>=1.6.0
